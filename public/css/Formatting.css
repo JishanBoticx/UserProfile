@@ -1,0 +1,22 @@
+.ls-closed section.content {
+    margin-left: 50px;
+}
+.small{
+    background-color: #ffffff;
+    color: black; 
+    }
+.data-percentage{
+    float: right;
+    background-color: #ffffff;
+    color: black; 
+    }
+.progress{
+    height: 7px;
+    }
+section.content{
+    margin: 100px 60px 0 60px;
+    }
+.block-header{
+    color: black;
+    font-weight: 700;
+    }
